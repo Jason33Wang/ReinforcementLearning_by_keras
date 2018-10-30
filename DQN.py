@@ -1,6 +1,5 @@
-from mze_env_for_DQN import Maze
+from maze_env import Maze
 from blogs import DQN
-# from RL_brain import DQN
 
 
 def run_maze():
